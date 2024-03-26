@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashutosh Singh
+- 👋 Hi, I’m Ashutosh Singh.
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Machine Learning/Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Machine Learning/Artificial Intelligence Projects.
